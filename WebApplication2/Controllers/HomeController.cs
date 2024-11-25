@@ -9,7 +9,7 @@ namespace WebApplication2.Controllers
         [HttpGet("hi")]
         public String hi()
         {
-            return "hi";
+            return "hi2";
         }
     }
 }
